@@ -1,0 +1,23 @@
+ # iShares Core MSCI World USD (Acc)
+"EUNL.DE",
+
+# iShares MSCI EM
+"EUNM.DE",
+
+# Invesco Physical Gold ETC
+"SGLD.MI",
+
+# iShares € Govt Bond 1-3yr ETF EUR Acc
+"CSBGE3.MI",
+
+# Amundi Euro Government Bond 3-5Y UCITS ETF Acc
+"EM35.MI",
+
+# Xtrackers Eurozone Government Bond 5-7 UCITS ETF 1C
+"X57E.MI",
+
+# Amundi Euro Government Bond 7-10Y
+"EM710.MI",
+
+# Amundi Euro Government Bond 10-15Y
+"EM1015.MI",
